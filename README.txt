@@ -1,0 +1,1 @@
+"equation.m" and "equation1.m" are all calling functions, so please just run "donglixue.m", "network.mat" is the matrix of food web. 
